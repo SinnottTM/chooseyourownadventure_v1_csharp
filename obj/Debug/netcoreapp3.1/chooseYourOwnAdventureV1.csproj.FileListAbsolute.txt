@@ -1,0 +1,14 @@
+C:\Users\tim305\source\repos\chooseYourOwnAdventureV1\bin\Debug\netcoreapp3.1\chooseYourOwnAdventureV1.exe
+C:\Users\tim305\source\repos\chooseYourOwnAdventureV1\bin\Debug\netcoreapp3.1\chooseYourOwnAdventureV1.deps.json
+C:\Users\tim305\source\repos\chooseYourOwnAdventureV1\bin\Debug\netcoreapp3.1\chooseYourOwnAdventureV1.runtimeconfig.json
+C:\Users\tim305\source\repos\chooseYourOwnAdventureV1\bin\Debug\netcoreapp3.1\chooseYourOwnAdventureV1.runtimeconfig.dev.json
+C:\Users\tim305\source\repos\chooseYourOwnAdventureV1\bin\Debug\netcoreapp3.1\chooseYourOwnAdventureV1.dll
+C:\Users\tim305\source\repos\chooseYourOwnAdventureV1\bin\Debug\netcoreapp3.1\chooseYourOwnAdventureV1.pdb
+C:\Users\tim305\source\repos\chooseYourOwnAdventureV1\obj\Debug\netcoreapp3.1\chooseYourOwnAdventureV1.csproj.AssemblyReference.cache
+C:\Users\tim305\source\repos\chooseYourOwnAdventureV1\obj\Debug\netcoreapp3.1\chooseYourOwnAdventureV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tim305\source\repos\chooseYourOwnAdventureV1\obj\Debug\netcoreapp3.1\chooseYourOwnAdventureV1.AssemblyInfoInputs.cache
+C:\Users\tim305\source\repos\chooseYourOwnAdventureV1\obj\Debug\netcoreapp3.1\chooseYourOwnAdventureV1.AssemblyInfo.cs
+C:\Users\tim305\source\repos\chooseYourOwnAdventureV1\obj\Debug\netcoreapp3.1\chooseYourOwnAdventureV1.csproj.CoreCompileInputs.cache
+C:\Users\tim305\source\repos\chooseYourOwnAdventureV1\obj\Debug\netcoreapp3.1\chooseYourOwnAdventureV1.dll
+C:\Users\tim305\source\repos\chooseYourOwnAdventureV1\obj\Debug\netcoreapp3.1\chooseYourOwnAdventureV1.pdb
+C:\Users\tim305\source\repos\chooseYourOwnAdventureV1\obj\Debug\netcoreapp3.1\chooseYourOwnAdventureV1.genruntimeconfig.cache
